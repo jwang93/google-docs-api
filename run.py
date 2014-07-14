@@ -24,6 +24,6 @@ for row in rows:
 
 
 row_to_insert = {}
-row_to_insert['record2'] = 'machine learning'
-row_to_insert['record1'] = 'data science'
+row_to_insert['record2'] = 'fldjfkljsfs'
+row_to_insert['record1'] = 'assfdswewqe'
 row = sheet.insert_row(row_to_insert)
