@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+google_spreadsheet/*.pyc
 
 # C extensions
 *.so
